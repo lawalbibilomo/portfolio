@@ -2,23 +2,22 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
-
+alt = Bibilomo Aminat Lawal
+Bibilomo Aminat Lawal
+Product Designer | Graphics Designer
 Show Contacts
 
 Email
-richard@example.com
+bibilomo1999@gmail.com
 
 Phone
-+1 (213) 352-2795
++234 904 904 0985
 
 Birthday
-June 23, 1982
+October 8, 1999
 
 Location
-Sacramento, California, USA
+Itire, Lagos, Nigeria
 
 # navbar
 
